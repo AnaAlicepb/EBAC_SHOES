@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="README do projeto EBAC Shoes">
     <meta name="author" content="Ana Alice Rodrigues">
-    <title>README - EBAC Shoes</title>
+   
 </head>
 <body>
 
 <header>
     <h1>EBAC Shoes</h1>
-    <img src="" alt="Logo EBAC Shoes" width="300">
+    <img src="https://ebac-shoes-murex.vercel.app/img/loja.jpg" alt="Logo EBAC Shoes" width="300" height="auto">
 </header>
 
 <details>
@@ -32,8 +32,7 @@
 <section id="parte-tecnica">
     <h2>Parte Técnica</h2>
     <ul>
-        <li>Backend: PHP é utilizado para a lógica do servidor, gerenciamento de sessões, autenticação de usuários e manipulação do carrinho de compras.</li>
-        <li>Frontend: HTML5, CSS3 e Bootstrap são utilizados para criar uma interface responsiva e atraente. JavaScript é empregado para dinamizar interações do usuário sem recarregar a página.</li>
+        <li>Frontend: HTML5, CSS3 e Bootstrap são utilizados para criar uma interface responsiva e atraente. </li>
     </ul>
 </section>
 
@@ -43,15 +42,14 @@
         <li><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></li>
         <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></li>
         <li><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></li>
-        <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></li>
-        <li><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></li>
-    </ul>
+     </ul>
 </section>
 
 <section id="contato">
     <h2>Contato</h2>
     <ul>
         <li><a href="https://linktr.ee/anaeanali5" target="_blank">Ana Alice Rodrigues</a></li>
+         <li><a href="https://ebac-shoes-murex.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Hospedado na Vercel"> clique para acessar o projeto</a></li>
     </ul>
 </section>
 
